@@ -1,5 +1,5 @@
 # Analysis of a generic pcap file containing a DNS-based DDoS attack
-The report of Project Group 5 is located at the Group_5_pcap_analysis_dsn_attack_assignment.ipynb file!
+The report and analysis of Project Group 5 is located at the Group_5_pcap_analysis_dsn_attack_assignment.ipynb file!
 
 Aleksandra Siderova - s2249987
 
